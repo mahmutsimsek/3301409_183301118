@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 9021637a231ca6c65859105327fc1ee6509a18be abc <abc@example.com> 1680613555 +0300	commit (initial): first commit
+9021637a231ca6c65859105327fc1ee6509a18be 0000000000000000000000000000000000000000 abc <abc@example.com> 1680613586 +0300	Branch: renamed refs/heads/main to refs/heads/main
+9021637a231ca6c65859105327fc1ee6509a18be 9021637a231ca6c65859105327fc1ee6509a18be abc <abc@example.com> 1680613586 +0300	Branch: renamed refs/heads/main to refs/heads/main
+9021637a231ca6c65859105327fc1ee6509a18be e19d52691647d37581abc68f3ad1d6e8892b8c88 abc <abc@example.com> 1680613784 +0300	commit: first commit
+e19d52691647d37581abc68f3ad1d6e8892b8c88 0000000000000000000000000000000000000000 abc <abc@example.com> 1680613784 +0300	Branch: renamed refs/heads/main to refs/heads/main
+e19d52691647d37581abc68f3ad1d6e8892b8c88 e19d52691647d37581abc68f3ad1d6e8892b8c88 abc <abc@example.com> 1680613784 +0300	Branch: renamed refs/heads/main to refs/heads/main
+e19d52691647d37581abc68f3ad1d6e8892b8c88 0000000000000000000000000000000000000000 abc <abc@example.com> 1680614090 +0300	Branch: renamed refs/heads/main to refs/heads/main
+e19d52691647d37581abc68f3ad1d6e8892b8c88 e19d52691647d37581abc68f3ad1d6e8892b8c88 abc <abc@example.com> 1680614090 +0300	Branch: renamed refs/heads/main to refs/heads/main
+e19d52691647d37581abc68f3ad1d6e8892b8c88 0000000000000000000000000000000000000000 abc <abc@example.com> 1680614279 +0300	Branch: renamed refs/heads/main to refs/heads/main
+e19d52691647d37581abc68f3ad1d6e8892b8c88 e19d52691647d37581abc68f3ad1d6e8892b8c88 abc <abc@example.com> 1680614279 +0300	Branch: renamed refs/heads/main to refs/heads/main
+e19d52691647d37581abc68f3ad1d6e8892b8c88 6b2e9a3a95ad25a232508e0914956cf2b43efd13 abc <abc@example.com> 1680614539 +0300	commit: first commit
+6b2e9a3a95ad25a232508e0914956cf2b43efd13 0000000000000000000000000000000000000000 abc <abc@example.com> 1680614547 +0300	Branch: renamed refs/heads/main to refs/heads/main
+6b2e9a3a95ad25a232508e0914956cf2b43efd13 6b2e9a3a95ad25a232508e0914956cf2b43efd13 abc <abc@example.com> 1680614547 +0300	Branch: renamed refs/heads/main to refs/heads/main
+6b2e9a3a95ad25a232508e0914956cf2b43efd13 07b334a5ada986d36500a14139d9f59ed0014a2e abc <abc@example.com> 1681025965 +0300	commit: first commit
+07b334a5ada986d36500a14139d9f59ed0014a2e 0000000000000000000000000000000000000000 abc <abc@example.com> 1681025974 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 07b334a5ada986d36500a14139d9f59ed0014a2e abc <abc@example.com> 1681025974 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 0000000000000000000000000000000000000000 abc <abc@example.com> 1681026126 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 07b334a5ada986d36500a14139d9f59ed0014a2e abc <abc@example.com> 1681026126 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 0000000000000000000000000000000000000000 abc <abc@example.com> 1681026275 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 07b334a5ada986d36500a14139d9f59ed0014a2e abc <abc@example.com> 1681026275 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 0000000000000000000000000000000000000000 abc <abc@example.com> 1681026392 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 07b334a5ada986d36500a14139d9f59ed0014a2e abc <abc@example.com> 1681026392 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 0000000000000000000000000000000000000000 abc <abc@example.com> 1681026845 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e 07b334a5ada986d36500a14139d9f59ed0014a2e abc <abc@example.com> 1681026845 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07b334a5ada986d36500a14139d9f59ed0014a2e dd25073c130f600ac88df63cc6ee0378b598c326 Mahmut Şimşek <mahmut5206@gmail.com> 1681028536 +0300	commit: a
